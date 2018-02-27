@@ -1,57 +1,8 @@
-Android 进阶笔记
+Android笔记
 ==
 
-大纲
---
 
-> * [技术框架](https://github.com/xieyangxuejun/AndroidNote#技术框架)
->   * [图片加载](https://github.com/xieyangxuejun/AndroidNote#图片加载)
->   * [网络请求](https://github.com/xieyangxuejun/AndroidNote#网络请求)
->   * [数据库ORM](https://github.com/xieyangxuejun/AndroidNote#数据库orm)
->   * [Json解析](https://github.com/xieyangxuejun/AndroidNote#json解析)
->   * [常用工具](https://github.com/xieyangxuejun/AndroidNote#常用工具)
->   * [依赖注入](https://github.com/xieyangxuejun/AndroidNote#依赖注入)
->   * [快速开发](https://github.com/xieyangxuejun/AndroidNote#快速开发)
->   * [动态加载](https://github.com/xieyangxuejun/AndroidNote#动态加载)
->   * [热修复](https://github.com/xieyangxuejun/AndroidNote#热修复)
->   * [事件总线](https://github.com/xieyangxuejun/AndroidNote#事件总线)
->   * [性能工具](https://github.com/xieyangxuejun/AndroidNote#性能工具)
->   * [图表](https://github.com/xieyangxuejun/AndroidNote#图表)
->   * [响应式编程](https://github.com/xieyangxuejun/AndroidNote#响应式编程)
->   * [日志框架](https://github.com/xieyangxuejun/AndroidNote#日志框架)
-> * [Android架构](https://github.com/xieyangxuejun/AndroidNote#Android架构)
->   * [MVVM&&MVP&&MVC](https://github.com/xieyangxuejun/AndroidNote#MVVM&&MVP&&MVC)
->   * [官方架构](https://github.com/xieyangxuejun/AndroidNote#官方架构)
->   * [国内平台](https://github.com/xieyangxuejun/AndroidNote#国内平台)
->   * [设计模式](https://github.com/xieyangxuejun/AndroidNote#设计模式)
->   * [其他](https://github.com/xieyangxuejun/AndroidNote#其他)
-> * [博客社区](https://github.com/xieyangxuejun/AndroidNote#博客社区)
->   * [个人博客](https://github.com/xieyangxuejun/AndroidNote#个人博客)
->   * [团队博客](https://github.com/xieyangxuejun/AndroidNote#团队博客)
->   * [技术社区](https://github.com/xieyangxuejun/AndroidNote#技术社区)
->   * [技术周报](https://github.com/xieyangxuejun/AndroidNote#技术周报)
-> * [技术书籍](https://github.com/xieyangxuejun/AndroidNote#技术书籍)
->   * [计算机基础](https://github.com/xieyangxuejun/AndroidNote#计算机基础)
->   * [操作系统](https://github.com/xieyangxuejun/AndroidNote#操作系统)
->   * [体系结构](https://github.com/xieyangxuejun/AndroidNote#体系结构)
->   * [计算机网络](https://github.com/xieyangxuejun/AndroidNote#计算机网络)
->   * [数据库](https://github.com/xieyangxuejun/AndroidNote#数据库)
->   * [编译原理](https://github.com/xieyangxuejun/AndroidNote#编译原理)
->   * [数据结构&算法](https://github.com/xieyangxuejun/AndroidNote#数据结构算法)
->   * [设计模式](https://github.com/xieyangxuejun/AndroidNote#设计模式)
->   * [软件工程](https://github.com/xieyangxuejun/AndroidNote#软件工程)
->   * [数字图像处理](https://github.com/xieyangxuejun/AndroidNote#数字图像处理)
->   * [计算机图形学](https://github.com/xieyangxuejun/AndroidNote#计算机图形学)
->   * [Linux](https://github.com/xieyangxuejun/AndroidNote#linux)
->   * [Android](https://github.com/xieyangxuejun/AndroidNote#android)
-> * [Android控件](https://github.com/xieyangxuejun/AndroidNote#Android控件)(控件有点多放在后面)
-
-
-
-
-
-
-&nbsp;&nbsp;&nbsp;&nbsp;技术框架
+技术框架
 --
 ### 图片加载
 * [Glide](https://github.com/bumptech/glide)
@@ -307,7 +258,7 @@ Android 进阶笔记
   - [Android APP架构心得](http://www.jianshu.com/p/2d5c1d855c31)
   - [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](http://android.jobbole.com/82578/)
 
-##&nbsp;&nbsp;博客社区
+##博客社区
 
 ### 个人博客
 * [老罗的Android之旅](http://blog.csdn.net/luoshengyang)
@@ -409,7 +360,7 @@ Android 进阶笔记
 * [Android博客周刊](http://androidblog.cn/)
 * [Android Weekly](http://androidweekly.net/)
 
-第三部分&nbsp;&nbsp;&nbsp;&nbsp;技术书籍
+技术书籍
 --
 
 ### 计算机基础
