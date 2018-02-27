@@ -3,7 +3,7 @@ Android笔记
 
 ## Android Widgets
 
-- [Android控件](https://github.com/xieyangxuejun/android_widgets.md)
+- [Android控件](https://github.com/xieyangxuejun/AndroidNote/blob/master/android_widgets.md)
 
 技术框架
 --
