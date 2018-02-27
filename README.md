@@ -571,9 +571,9 @@ Android笔记
 
 #### [ActionBar](https://github.com/Trinea/android-open-project#%E4%BA%8Cactionbar)、
 
-#### [Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)、
+#### [Menu](https://github.com/Trinea/android-open-project#%E4%B8%89menu)
 
-#### [ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、
+#### [ViewPager](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)
 
 #### [Gallery](https://github.com/Trinea/android-open-project#%E5%9B%9Bviewpager-gallery)、
 
